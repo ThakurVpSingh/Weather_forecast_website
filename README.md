@@ -38,4 +38,4 @@ To use the Weather API in this project, you will need to obtain an API key from 
 2. In the JavaScript file (e.g., `script.js`), replace `'YOUR_API_KEY'` with the actual API key you obtained.
 
 ```javascript
-const apiKey = 'YOUR_API_KEY';
+const apiKey = 'f7093e7853be493e407d46a434f9c54b';
